@@ -1,4 +1,4 @@
-Block Elements (Most Commonly Used First)
+Block Elements (Most Commonly Used First) : Jo screeen ki puri width lelete hai
 
 <div>: A generic container for flow content.
 <p>: Paragraph.
@@ -30,7 +30,8 @@ Block Elements (Most Commonly Used First)
 
 
 
-Inline Elements (Most Commonly Used First)
+Inline Elements (Most Commonly Used First): jitni chahiye utni
+ lete hai
 <a>: Anchor or hyperlink.
 <img>: Image.
 <span>: Generic inline container.
